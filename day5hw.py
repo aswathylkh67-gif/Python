@@ -20,6 +20,8 @@ print("\nUpdated Course List with Fullstack:")
 for course, count in fullstack_course.items():
     print(f"{course}: {count} students")
     
+
+    
     
 
 
